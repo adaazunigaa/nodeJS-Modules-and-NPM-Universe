@@ -5,3 +5,8 @@ const math = require("./math");
 console.log(math.PI);
 
 console.log(math.square(2));
+
+
+const cats = require("./Shelter");
+
+console.log("required an entire directory ->", cats);
