@@ -15,5 +15,15 @@
         -Rainbow 
     
     -package.json
+        *contains meta data about the project 
+            -dependencies 
+            -author name 
+            -license
+            -etc
+        *command line -> 'npm init' is the easiest way to crate a .json file
+        *typically in the root directory of the project
+        *once .json is created, dependencies will be added automatically
+            -they keep a record of what we are using
 
 -Dependencies 
+    
