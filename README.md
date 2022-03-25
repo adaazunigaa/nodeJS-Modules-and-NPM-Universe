@@ -26,4 +26,5 @@
             -they keep a record of what we are using
 
 -Dependencies 
-    
+    *command line 'npm install'
+        -Looks at the package.json and downloads all dependencies
